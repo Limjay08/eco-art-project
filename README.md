@@ -1,5 +1,5 @@
 ![아두이노 사진](arduino.jpeg)
-'''
+''' cpp
 void setup() {
   pinMode(13, OUTPUT);   // 빨간색 LED를 연결한 핀
   pinMode(11, OUTPUT);   // 초록색 LED를 연결한 핀
